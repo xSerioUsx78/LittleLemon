@@ -1,1 +1,3 @@
 # LittleLemon
+
+A Coursera project!
